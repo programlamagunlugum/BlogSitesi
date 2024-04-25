@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Login\\AdminLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcBlogSitesi\\Views\\Login\\AdminLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Chart\\Chart1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcBlogSitesi\\Views\\Chart\\Chart1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Blog\\AddNewBlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcBlogSitesi\\Views\\Blog\\AddNewBlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\About\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcBlogSitesi\\Views\\About\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\EntityLayer\\Concrete\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityLayer\\Concrete\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcBlogSitesi\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Blog\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcBlogSitesi\\Views\\Blog\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Login\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "MvcBlogSitesi\\Views\\Login\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Login\\AdminLogin.cshtml",
+              "RelativeToolTip": "MvcBlogSitesi\\Views\\Login\\AdminLogin.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T08:09:49.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chart1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Chart\\Chart1.cshtml",
+              "RelativeDocumentMoniker": "MvcBlogSitesi\\Views\\Chart\\Chart1.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Chart\\Chart1.cshtml",
+              "RelativeToolTip": "MvcBlogSitesi\\Views\\Chart\\Chart1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T08:02:15.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Blog\\AddNewBlog.cshtml",
+              "RelativeDocumentMoniker": "MvcBlogSitesi\\Views\\Blog\\AddNewBlog.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Blog\\AddNewBlog.cshtml",
+              "RelativeToolTip": "MvcBlogSitesi\\Views\\Blog\\AddNewBlog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T08:02:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcBlogSitesi\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "MvcBlogSitesi\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T08:01:39.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\EntityLayer\\Concrete\\Author.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Author.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\EntityLayer\\Concrete\\Author.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Author.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-01T19:19:07.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Web.config",
+              "RelativeDocumentMoniker": "MvcBlogSitesi\\Web.config",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Web.config",
+              "RelativeToolTip": "MvcBlogSitesi\\Web.config",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-08-31T09:49:49.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcBlogSitesi\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MVCBlogSitesi\\MvcBlogSitesi\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "MvcBlogSitesi\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-25T06:29:36.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

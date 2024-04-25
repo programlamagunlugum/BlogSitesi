@@ -1,0 +1,104 @@
+﻿@model EntityLayer.Concrete.Contact
+@{
+    ViewBag.Title = "SendMessage";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+
+<div class="site-cover site-cover-sm same-height overlay single-page" style="background-image: url('/miniblog/images/iletişim.jpg');">
+    <div class="container">
+        <div class="row same-height justify-content-center">
+            <div class="col-md-12 col-lg-10">
+                <div class="post-entry text-center">
+                    <h1 class="">Bize Ulaşın</h1>
+                    <p class="lead mb-4 text-white">Önerileriniz, talepleriniz , yorumlarda yaşadığınız problemler ve diğer yaşadığınız diğer problemler için bir mesaj uzağınızdayız.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 mb-5">
+
+
+
+                <form method="post" class="p-5 bg-white">
+
+
+                    <div class="row form-group">
+                        <div class="col-md-6 mb-3 mb-md-0">
+                            <label class="text-black" for="fname">Adınız</label>
+                            @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.Name)
+                        </div>
+                        <div class="col-md-6">
+                            <label class="text-black" for="lname">Soyadınız</label>
+                            @Html.TextBoxFor(x => x.Surname, new { @class = "form-control" })
+
+                        </div>
+                    </div>
+
+                    <div class="row form-group">
+
+                        <div class="col-md-12">
+                            <label class="text-black" for="email">Email</label>
+                            @Html.TextBoxFor(x => x.Mail, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.Mail)
+                        </div>
+                    </div>
+
+                    <div class="row form-group">
+
+                        <div class="col-md-12">
+                            <label class="text-black" for="subject">Konu</label>
+                            @Html.TextBoxFor(x => x.Subject, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.Subject)
+                        </div>
+                    </div>
+
+                    <div class="row form-group">
+                        <div class="col-md-12">
+                            <label class="text-black" for="message">Mesajınız</label>
+                            @Html.TextAreaFor(x => x.Message, 10, 3, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.Message)
+                        </div>
+                    </div>
+
+                    <div class="row form-group">
+                        <div class="col-md-12">
+                            <input type="submit" value="Mesajı Gönder" class="btn btn-primary py-2 px-4 text-white">
+                        </div>
+                    </div>
+
+
+                </form>
+            </div>
+            <div class="col-md-5">
+
+                <div class="p-4 mb-3 bg-white">
+
+                    <p class="mb-0 font-weight-bold">Email Adresimiz</p>
+                    <p class="mb-0"><a href="#">programlamagunlugum@gmail.com</a></p>
+                    <br />
+                    <p class="mb-0 font-weight-bold">Sosyal Medya Hesaplarımız</p>
+                    <p>
+                        <a href="https://www.instagram.com/programlamagunlugum/" target="_blank"><span class="icon-instagram p-2"></span></a>
+                        <a href="https://www.linkedin.com/in/s%C4%B1la-tekba%C5%9F-1a499518b/" target="_blank"><span class="icon-linkedin p-2"></span></a>
+                        <a href="https://github.com/programlamagunlugum/" target="_blank"><span class="icon-github p-2"></span></a>
+                        <a href="https://www.youtube.com/watch?v=1NIEzlCAixs" target="_blank"><span class="icon-youtube p-2"></span></a>
+                    </p>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+@Html.Action("Footer", "About")
+
+
+
